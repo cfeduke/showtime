@@ -8,4 +8,5 @@ group :development, :test do
   gem "cucumber-rails", ">= 0.3.2"
   gem "webrat", ">= 0.7.2"
   gem "capybara"
+  gem "database_cleaner"
 end
